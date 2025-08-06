@@ -87,7 +87,7 @@ header .menu li a:hover{
 /* responsive */
 @media (max-width:842px){
     body{
-        background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url("img.jpg");
+        background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url("./visuels/img.jpg");
         background-position: center;
         background-size: cover;
     }
