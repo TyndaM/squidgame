@@ -32,11 +32,14 @@ header .menu li a{
     color: #fff;
     text-decoration: 0;
     text-transform: uppercase;
-    transition; 0.5s;
+    padding: 10px;
+    /* transition; 0.5s; */
 }
 header .menu li a:hover{
     background:#e83c80;
-    padding: 10px
+    padding: 10px;
+    border-radius: 10px;
+    font-weight: 600;
     /* font-weight:bold; */
 }
 .banniere{
